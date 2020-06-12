@@ -1,0 +1,37 @@
+# Antistasi Amazons
+
+**Version 0.0.1** - 12th June 2020 (Antistasi Amazons based on Antistasi Community Edition 2.2.1)
+
+**Antistasi Amazons** Arma 3 video game modification based on the work of Barbolani, the Antistasi Community Edition Team, Maxjoiner, Zeealex, and Bohemia Interactive by Hypertexthero.
+
+=============  Changes  ======================
+
+  - Women guerrillas using [FEMAL3_Heads](https://steamcommunity.com/workshop/filedetails/?id=374775446) and [Max_Women](https://steamcommunity.com/workshop/filedetails/?id=145175).
+  - New briefing and overview text.
+  - New flag (flag.jpg - 200x200px), introduction card (pic.jpg - 2048x1024px), and map board card (mapboard.jpg called from init.sqf - 1024x1024px), with hand-drawn illustrations.
+  - Disabled stamina.
+  - Starting parameter defaults edited to enable fast travel, reduce the number of weapons required for unlocks to 10, and make crate contents random.
+  - Added a basic rifle and removed one submachine gun from starting weapons.
+
+=============  Issues  ======================
+
+  - The hair of some of the female models in the Max_women and FEMAL3_Heads mods clip through hats and other head gear.
+  - When you take temporary control of an AI guerrilla and relinquish it after 60 seconds the AI character becomes your own avatar. 
+  
+=============  Todo  ======================  
+  
+  - Add welcome sound to mission. First configure it in descriptions.ext, then follow these instructions:     
+      - https://steamcommunity.com/app/107410/discussions/0/143387886728301734/
+      - https://forums.bohemia.net/forums/topic/189498-solved-how-to-correctly-reference-a3-vanilla-sounds/
+      - https://community.bistudio.com/wiki/playSound3D
+  - Publish on Steam https://arma3.com/workshop101
+  - Add random quotes function `_select1 = ["A", "B", "C", "D", "E"] call BIS_fnc_selectRandom;` https://community.bistudio.com/wiki/BIS_fnc_selectRandom
+
+    
+=============  Credits  ======================  
+
+- **Antistasi** by [Barbolani](https://www.youtube.com/user/barbolani/) and the [Antistasi Community Edition Team](https://github.com/official-antistasi-community/A3-Antistasi)
+- **[Max_Women](https://steamcommunity.com/workshop/filedetails/?id=145175)** by [Maxjoiner](https://www.youtube.com/channel/UCPGvwaVtKMTa7EHrT-Ys4ww)
+- **[FEMAL3_Heads](https://steamcommunity.com/workshop/filedetails/?id=374775446)** by [Zeealex](https://www.deviantart.com/zeealex)
+- **[Arma 3](https://www.bohemia.net/games/arma3)** by **Bohemia Interactive**
+- **Amazons** basic mod by **[Hypertexthero](https://hypertexthero.com)**.
