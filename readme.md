@@ -3,7 +3,6 @@
 <img src="antistasi-amazons.jpg" alt="Antistasi Amazons illustration by Simon Griffee." width="100" align="right">
 
 **Version 0.0.1** - 2020 June 12th  
-
 *Antistasi Amazons* is currently based on [Antistasi Community Edition version 2.2.1][ascev].
 
 [ascev]: https://github.com/official-antistasi-community/A3-Antistasi/releases/tag/2.2.1
