@@ -44,7 +44,7 @@ Please see [this blog post](https://hypertexthero.com/amazons) for installation 
 
 ## Todo
   
-- Add welcome sound to mission. First configure it in descriptions.ext, then [follow](https://community.bistudio.com/wiki/playSound3D) [these](https://steamcommunity.com/app/107410/discussions/0/143387886728301734/) [instructions](https://forums.bohemia.net/forums/topic/189498-solved-how-to-correctly-reference-a3-vanilla-sounds/):     
+- Add welcome sound to mission. First configure it in descriptions.ext, then [follow](https://community.bistudio.com/wiki/playSound3D) [these](https://steamcommunity.com/app/107410/discussions/0/143387886728301734/) [instructions](https://forums.bohemia.net/forums/topic/189498-solved-how-to-correctly-reference-a3-vanilla-sounds/).
 - Add [random quotes](https://community.bistudio.com/wiki/BIS_fnc_selectRandom) function `_select1 = ["A", "B", "C", "D", "E"] call BIS_fnc_selectRandom;` and more updates to various mission texts.
 - Publish [on Steam](https://arma3.com/workshop101)
 
