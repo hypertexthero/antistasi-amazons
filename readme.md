@@ -2,7 +2,9 @@
 
 <img src="antistasi-amazons.jpg" alt="Antistasi Amazons illustration by Simon Griffee." width="100" align="right">
 
-**Version 0.0.1** - 12th June 2020. *Antistasi Amazons* is currently based on [Antistasi Community Edition version 2.2.1][ascev].
+**Version 0.0.1** - 2020 June 12th  
+
+*Antistasi Amazons* is currently based on [Antistasi Community Edition version 2.2.1][ascev].
 
 [ascev]: https://github.com/official-antistasi-community/A3-Antistasi/releases/tag/2.2.1
 
@@ -43,7 +45,7 @@ Please see [this blog post](https://hypertexthero.com/amazons) for installation 
 ## Todo
   
 - Add welcome sound to mission. First configure it in descriptions.ext, then [follow](https://community.bistudio.com/wiki/playSound3D) [these](https://steamcommunity.com/app/107410/discussions/0/143387886728301734/) [instructions](https://forums.bohemia.net/forums/topic/189498-solved-how-to-correctly-reference-a3-vanilla-sounds/):     
-- Add [random quotes](https://community.bistudio.com/wiki/BIS_fnc_selectRandom) function `_select1 = ["A", "B", "C", "D", "E"] call BIS_fnc_selectRandom;`
+- Add [random quotes](https://community.bistudio.com/wiki/BIS_fnc_selectRandom) function `_select1 = ["A", "B", "C", "D", "E"] call BIS_fnc_selectRandom;` and more updates to various mission texts.
 - Publish [on Steam](https://arma3.com/workshop101)
 
 ## Credits
