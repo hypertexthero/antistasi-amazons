@@ -53,5 +53,5 @@ Please see [this blog post](https://hypertexthero.com/amazons) for installation 
 - **[Antistasi](https://github.com/official-antistasi-community/A3-Antistasi)** by [Barbolani](https://www.youtube.com/user/barbolani/) and the [Antistasi Community Edition Team](https://github.com/official-antistasi-community/A3-Antistasi/graphs/contributors)
 - **[Max_Women](https://steamcommunity.com/workshop/filedetails/?id=1451755886)** by [Maxjoiner](https://www.youtube.com/channel/UCPGvwaVtKMTa7EHrT-Ys4ww)
 - **[FEMAL3_Heads](https://steamcommunity.com/workshop/filedetails/?id=374775446)** by [Zeealex](https://www.deviantart.com/zeealex)
-- **[Arma 3](https://www.bohemia.net/games/arma3)** by **Bohemia Interactive**
-- **Amazons** basic mod by **[Hypertexthero](https://hypertexthero.com)**.
+- **[Arma 3](https://www.bohemia.net/games/arma3)** by [Bohemia Interactive](https://www.bohemia.net/)
+- **Antistasi Amazons** basic mod by [Hypertexthero](https://hypertexthero.com).
