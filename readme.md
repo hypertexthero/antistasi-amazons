@@ -37,6 +37,7 @@ Please see [this blog post](https://hypertexthero.com/amazons) for installation 
 
 - The hair of some of the female models in the [Max_women][fh] and [FEMAL3_Heads][mw] mods clip through hats and other head gear.
 - When you take temporary control of an AI guerrilla and relinquish it after 60 seconds the AI character becomes your own avatar. 
+- Bodies and voices.
   
 [fh]: https://steamcommunity.com/workshop/filedetails/?id=374775446
 [mw]: https://steamcommunity.com/workshop/filedetails/?id=1451755886
